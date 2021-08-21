@@ -30,7 +30,7 @@
 
     // ABOUT SLIDER
     $('.owl-carousel').owlCarousel({
-      animateOut: 'fadeOut',
+      animateOut: 'slideOutUp',
       items: 1,
       loop: true,
       autoplayHoverPause: false,
